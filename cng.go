@@ -1,4 +1,4 @@
-package main
+package cng
 
 import (
 	"math/rand"
